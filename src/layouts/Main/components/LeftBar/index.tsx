@@ -26,15 +26,6 @@ const LeftBar: React.FC<LeftBarProps> = ({ contactData }) => {
     badge,
   }));
 
-  const bottom: ContactItem[] = [
-    {
-      name: 'Useless button!',
-      url: '',
-      icon: 'cog',
-      isInternal: true,
-    },
-  ];
-
   const renderData = (data: ContactItem[]) => {
     return data.map((contactItem) => (
       <IconLink key={contactItem.name} {...contactItem} />
@@ -50,7 +41,6 @@ const LeftBar: React.FC<LeftBarProps> = ({ contactData }) => {
         {renderDivider()}
         {renderData(contactData)}
       </div>
-      <div>{renderData(bottom)}</div>
     </div>
   );
 };

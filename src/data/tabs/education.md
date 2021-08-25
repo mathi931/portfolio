@@ -4,7 +4,7 @@
 
   - Ruander Budapest
   - Specialization in C# and SQL
-  - 2019-
+  - 2019-2021
 
 - [High School diploma](https://dszcbrassai.hu/)
 

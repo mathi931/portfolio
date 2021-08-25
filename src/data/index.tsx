@@ -26,14 +26,6 @@ export const pages: PageLink[] = [
       />
     ),
   },
-  {
-    name: 'Software Development',
-    url: '/swe',
-    icon: 'graduation-cap',
-    isInternal: true,
-    badge: `${calculateDiplomaProgress(sweData, 0)}%`,
-    comp: () => <Diploma diplomaData={sweData} />,
-  },
 ];
 
 export const tabs: TabLink[] = [
