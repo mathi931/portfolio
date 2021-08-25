@@ -53,11 +53,11 @@ const MainButtons: React.FC<MainButtonsProps> = ({ contactData, repoUrl }) => {
 
   return (
     <div className={classes.root}>
-      <div>
+      {/* <div>
         {ghButtons.map((btn) => (
           <GHButton key={`gh-btn-${btn.resource.attr}`} {...btn} />
         ))}
-      </div>
+      </div> */}
       <div>
         <ButtonLink
           href={mainContact.url}

@@ -1,47 +1,21 @@
 ### Some of the projects I've worked on so far
 
-- [turali.js.org](https://turali.js.org/)
+- [Spicee King](https://github.com/mathi931/meszi-e-commerce)
 
-  - The web app you are currently looking at.
-  - `React`, `TypeScript`
+  - E-commerce platform with integrated payment API
+  - built with: `React`, `Redux`, `Firebase`, `GraphQL`, `Stripe API`, `Styled Components`, `Tailwind CSS`
 
-- [GetKernel](https://getkernel.now.sh/) \[_Half-baked_\]
+- [Green Lease](https://github.com/mathi931/GreenLeaseUI)
 
-  - The kernel store for Ubuntu derivatives.
-  - `NextJS`
+  - Electric vehicle fleet lease web platform with windows management system
+  - built with: `C#`, `.NET`, `SQL`, `React`, `Styled Components`, `Tailwind CSS`
 
-- [deepintr.js.org](https://deepintr.js.org/)
+- [Javascr10t](https://github.com/mathi931/My-winner-10/)
 
-  - Landing page for an online community.
-  - `GatsbyJS`, `React`, `TypeScript`
+  - 10 vanila javascript projects with API integration
+  - built with: `HTML`, `CSS`, `Javascript`
 
-- [Girizgah](https://turali.js.org/girizgah/)
+- [zahradnypomocnik.sk](https://zahradnypomocnik.sk/)
 
-  - Greeter (LightDM Webkit) theme for Pardus Linux.
-  - `React`
-
-- [Piyango.online](https://piyango.online/) \[_Abandoned_\]
-
-  - [Frontend](https://piyango.online/) | [Backend](https://dev.piyango.online/)
-  - Similar to _Bilen Adam_, which is listed below.
-  - `React`, `TypeScript`, `Serverless Functions`
-
-- [Astroloci](https://play.google.com/store/apps/details?id=com.astroloci.app)
-
-  - A horoscope application for Android.
-  - `Java`, `Express.js`
-
-- [Bilen Adam](https://play.google.com/store/apps/details?id=com.caglarturali.bilenadam)
-
-  - Lottery machine for Turkey's national lottery games.
-  - `C#`, `Unity 3D`
-
-- [2●48](https://play.google.com/store/apps/details?id=com.caglarturali.the2o48)
-
-  - A clone of the popular puzzle game 2048, with unlimited levels.
-  - `C#`, `Unity 3D`
-
-- [WatcherCatBot](https://github.com/caglarturali/WatcherCatBot/)
-
-  - A Telegram bot that returns popularity info of the given Linux distribution.
-  - `Node.js`, `Express.js`
+  - Active Gardenening E-commerce platform
+  - built with: `Shopify`

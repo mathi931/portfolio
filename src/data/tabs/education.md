@@ -1,18 +1,13 @@
 ### My \[academic\] background
 
-- [Software Engineering](/swe)
+- [Software Development](/swe)
 
-  - Apprenticeship Program
-  - 2020-...
+  - Ruander Budapest
+  - Specialization in C# and SQL
+  - 2019-
 
-- [Computer Education and Instructional Technologies](https://bote.kku.edu.tr/)
+- [High School diploma](https://dszcbrassai.hu/)
 
-  - Kirikkale University
-  - Bachelor's Degree
-  - 2010-2017
-
-- [Physics](https://fizik.kku.edu.tr/)
-
-  - Kirikkale University
-  - _Dropout_
-  - 2008-2010
+  - Brassai Samuel Gymnasium
+  - Specialization in Physics and Math
+  - 2008-2012

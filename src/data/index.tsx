@@ -27,20 +27,12 @@ export const pages: PageLink[] = [
     ),
   },
   {
-    name: 'Software Engineering',
+    name: 'Software Development',
     url: '/swe',
     icon: 'graduation-cap',
     isInternal: true,
     badge: `${calculateDiplomaProgress(sweData, 0)}%`,
     comp: () => <Diploma diplomaData={sweData} />,
-  },
-  {
-    name: 'Business Administration',
-    url: '/ba',
-    icon: 'graduation-cap',
-    isInternal: true,
-    badge: `${calculateDiplomaProgress(baData, 0)}%`,
-    comp: () => <Diploma diplomaData={baData} />,
   },
 ];
 
