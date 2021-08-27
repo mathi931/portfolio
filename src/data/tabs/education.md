@@ -1,6 +1,6 @@
 ### My \[academic\] background
 
-- [Software Development](/swe)
+- [Software Development](https://www.ruander.hu/)
 
   - Ruander Budapest
   - Specialization in C# and SQL

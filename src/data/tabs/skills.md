@@ -7,14 +7,16 @@
 
 ### Programming languages / tech stacks
 
+- HTML
+- CSS
 - C# / .NET
-- HTML / CSS
 - Javascript
   - React.js
   - Node.js
   - Express.js
-- SQL
+- MSSQL
 - MongoDB
+- Firebase
 
 ### Personal skills
 
@@ -23,6 +25,7 @@
 - Collaboration and teamwork
 - Empathy
 - Organized
+- Time management
 ### Special interests 👌
 
 - Solve coding challanges
@@ -30,3 +33,4 @@
 - Boxing
 - Cooking
 - Road Trips
+
